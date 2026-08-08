@@ -1,0 +1,2 @@
+Jika ternyata kamu ingin membatalkan proses merge ini sepenuhnya dan kembali ke kondisi sebelum kon ik terjadi, perintah apa yang harus dalankan?
+Jawaban: Menggunakan "git merge --abort" untuk menghentikan proses penggabungan yang sedang mengalami konflik dan mengembalikan branch ke kondisi commit terakhir

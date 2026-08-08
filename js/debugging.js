@@ -9,4 +9,4 @@ console.log(totalDenganTambahan);
 
 // 1. hasil console.log sebelum di perbaiki = sisaStok: 38  totalDenganTambahan: 5012 
 // 2. Operator "-" memaksa pengubahan teks menjadi angka untuk menghitung selisih, sedangkan operator "+" mengutamakan penggabungan teks jika ada variabel bertipe string.
-// 3. 
+// 3. Done
